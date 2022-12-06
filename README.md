@@ -1,3 +1,4 @@
+![Git Profile Pic](https://user-images.githubusercontent.com/109774497/205808251-0b525bfc-c3fb-4855-98d6-a06655670203.png)
 # sql-datamodeling-engineering-analysis
 # Data Modeling, Data Engineering, Data Analysis
 ## Notes about the Project
